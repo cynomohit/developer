@@ -30,6 +30,12 @@ const Question = ({
         <button hidden={hfinish} onClick={onFinish}>Finish</button>
 	
 	<br></br>
+	<br></br>
+	<br></br>
+	for(let i=1;i<totalQues; i++)
+	{	
+		<a>i</a>
+	}
         </div>
     
   )

@@ -7,7 +7,7 @@
         {
           "point": 0,
           "label": "To avoid Apex code coverage requirements for the code between these lines.",
-	  "checked": ""
+	  "checked": "true"
         },
         {
           "point": 0,
@@ -32,7 +32,7 @@
         {
           "point": 1,
           "label": "create a process with process builder.",
-	  "checked": ""
+	  "checked": "true"
         },
         {
           "point": 0,
@@ -57,7 +57,7 @@
         {
           "point": 0,
           "label": "By accessing the content from chatter files.",
-	  "checked": ""
+	  "checked": "true"
         },
         {
           "point": 0,
@@ -82,7 +82,7 @@
         {
           "point": 0,
           "label": "before Trigger; validation Rules; After Triggers; Assignment Rules; Workflow Rules; Commit",
-	  "checked": ""
+	  "checked": "true"
         },
         {
           "point": 0,
@@ -107,7 +107,7 @@
         {
           "point": 0,
           "label": "The Account should have a lookup relationship to the invoice.",
-	  "checked": ""
+	  "checked": "true"
         },
         {
           "point": 1,
