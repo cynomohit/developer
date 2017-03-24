@@ -1,12 +1,4 @@
-# Quiz React 
 
-## Installation
-
-```
-In  an empty folder:
-$ git clone git@github.com:gchandrasa/quiz-react.git
-$ cd quiz-react
-$ npm install
-$ npm run build
-$ npm start
-```
+# developer
+https://github.com/cynomohit/developer.git
+>>>>>>> f455bf27fe867e6482b6dbf7fdc43ee30eb3f5ea
